@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 i do stuff, check out my repositories
 
-![most-used-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaylyDev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaylydev&layout=compact)](https://github.com/jaylydev)
 
-![views-count](https://komarev.com/ghpvc/?username=JaylyDev&style=for-the-badge)
+[![views-count](https://komarev.com/ghpvc/?username=JaylyDev&style=for-the-badge)](https://github.com/jaylydev)
