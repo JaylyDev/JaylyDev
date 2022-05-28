@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+i do stuff, check out my repositories
+
+![most-used-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaylyDev)
+
+![views-count](https://komarev.com/ghpvc/?username=JaylyDev&style=for-the-badge)
